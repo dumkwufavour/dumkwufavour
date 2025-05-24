@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey, I'm Dumkwu Isioma Favour 👋
+  Hey, I'm Favour 👋
 </h1>
 
 <p align="center" style="font-style: italic; color: #666;">
@@ -9,7 +9,7 @@
 
 ---
 
-<h3 style="text-align: center; font-weight: bold;">
+<h3 align="center" style="font-weight: bold;">
   About Me
 </h3>
 
@@ -19,7 +19,7 @@
 
 ---
 
-<h3 style="text-align: center; font-weight: bold;">
+<h3 align="center" style="font-weight: bold;">
   What I Build & Use
 </h3>
 
@@ -37,25 +37,19 @@
 
 ---
 
-<h3 style="text-align: center; font-weight: bold; margin-bottom: 10px;">
+<h3 align="center" style="font-weight: bold;">
   Tech Stack
 </h3>
 
-<p align="center" style="font-weight: bold; animation: pulse 3s infinite;">
-  Python &nbsp;|&nbsp; JavaScript &nbsp;|&nbsp; TypeScript &nbsp;|&nbsp; Node.js &nbsp;|&nbsp; Next.js &nbsp;|&nbsp; PostgreSQL &nbsp;|&nbsp; MongoDB &nbsp;|&nbsp; Docker &nbsp;|&nbsp; Google Cloud &nbsp;|&nbsp; Prometheus &nbsp;|&nbsp; Grafana &nbsp;|&nbsp; Java &nbsp;|&nbsp; C++
+<p align="center" style="font-weight: bold; font-size: 1.1rem;">
+  🐍 Python &nbsp;&nbsp; | &nbsp;&nbsp;🟨 JavaScript &nbsp;&nbsp; | &nbsp;&nbsp;🔷 TypeScript &nbsp;&nbsp; | &nbsp;&nbsp;🟩 Node.js &nbsp;&nbsp; | &nbsp;&nbsp;⚫ Next.js <br/>
+  🐘 PostgreSQL &nbsp;&nbsp; | &nbsp;&nbsp;🍃 MongoDB &nbsp;&nbsp; | &nbsp;&nbsp;🐳 Docker &nbsp;&nbsp; | &nbsp;&nbsp;☁️ Google Cloud <br/>
+  📊 Prometheus &nbsp;&nbsp; | &nbsp;&nbsp;📈 Grafana &nbsp;&nbsp; | &nbsp;&nbsp;☕ Java &nbsp;&nbsp; | &nbsp;&nbsp;💻 C++
 </p>
-
-<style>
-@keyframes pulse {
-  0% { color: #333; }
-  50% { color: #0070f3; }
-  100% { color: #333; }
-}
-</style>
 
 ---
 
-<h3 style="text-align: center; font-weight: bold;">
+<h3 align="center" style="font-weight: bold;">
   Let's Connect
 </h3>
 
@@ -66,6 +60,6 @@
 
 ---
 
-<p style="text-align: center;">
+<p align="center">
   Thanks for visiting! Let’s create something amazing together. 🚀
 </p>
