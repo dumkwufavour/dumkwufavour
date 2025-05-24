@@ -9,13 +9,7 @@
 
 ---
 
-<h3 align="center" style="font-weight: bold;">
-  About Me
-</h3>
-
-<p>
-  I’m passionate about transforming complex data into clear insights and crafting scalable backend systems that power modern applications. With deep expertise in Python, SQL, TypeScript, and Next.js, I build efficient, automated workflows and reliable APIs that solve real-world problems.
-</p>
+<h3 style="text-align: center; font-weight: bold;"> About Me </h3> <p> I enjoy using data and technology to create useful and scalable solutions. With deep expertise in Python, SQL, TypeScript, and Next.js, I build efficient, automated workflows and reliable APIs that solve real-world problems. </p>
 
 ---
 
@@ -43,8 +37,8 @@
 
 <p align="center" style="font-weight: bold; font-size: 1.1rem;">
   🐍 Python &nbsp;&nbsp; | &nbsp;&nbsp;🟨 JavaScript &nbsp;&nbsp; | &nbsp;&nbsp;🔷 TypeScript &nbsp;&nbsp; | &nbsp;&nbsp;🟩 Node.js &nbsp;&nbsp; | &nbsp;&nbsp;⚫ Next.js <br/>
-  🐘 PostgreSQL &nbsp;&nbsp; | &nbsp;&nbsp;🍃 MongoDB &nbsp;&nbsp; | &nbsp;&nbsp;🐳 Docker &nbsp;&nbsp; | &nbsp;&nbsp;☁️ Google Cloud <br/>
-  📊 Prometheus &nbsp;&nbsp; | &nbsp;&nbsp;📈 Grafana &nbsp;&nbsp; | &nbsp;&nbsp;☕ Java &nbsp;&nbsp; | &nbsp;&nbsp;💻 C++
+  🐘 PostgreSQL &nbsp;&nbsp; | &nbsp;&nbsp;🍃 MongoDB &nbsp;&nbsp; | &nbsp;&nbsp;🐳 Docker &nbsp;&nbsp; | &nbsp;&nbsp;☁️ Google & AWS Cloud <br/>
+  📊 Prometheus &nbsp;&nbsp; | &nbsp;&nbsp;📈 Grafana &nbsp;&nbsp; | &nbsp;&nbsp;☕ Java &nbsp;&nbsp; | &nbsp;&nbsp;💻 C++ | &nbsp;&nbsp;📈 LookerStuido | &nbsp;&nbsp;📈 PowerBI
 </p>
 
 ---
