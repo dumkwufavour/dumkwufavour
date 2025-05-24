@@ -14,23 +14,26 @@
 </h3>
 
 <p>
-I'm passionate about turning data into insights and building scalable backend solutions. With strong skills in Python, SQL, and modern JavaScript (TypeScript, Next.js), I enjoy solving real-world problems through automation and analytics.
-
-Currently, I’m working with Growing Businesses Foundation (GBF), helping businesses grow with data-driven decisions and automation.
+  I’m passionate about transforming complex data into clear insights and crafting scalable backend systems that power modern applications. With deep expertise in Python, SQL, TypeScript, and Next.js, I build efficient, automated workflows and reliable APIs that solve real-world problems.
 </p>
 
 ---
 
 <h3 style="text-align: center; font-weight: bold;">
-  What I Do
+  What I Build & Use
 </h3>
 
 <ul>
-<li>📊 Data collection, cleaning & visualisation using Python, Power BI, and Looker Studio</li>
-<li>⚙️ Backend development with Node.js, Express, MongoDB, PostgreSQL</li>
-<li>🔄 Automation of workflows & reporting to save time and improve accuracy</li>
-<li>🛠 Building dashboards and interactive tools that help businesses make better decisions</li>
+  <li>🚀 Scalable backend services and RESTful APIs using Node.js, Express, and FastAPI</li>
+  <li>📊 Data pipelines and analytics dashboards leveraging Python, Pandas, Power BI, and Looker Studio</li>
+  <li>⚙️ Automated workflows and reporting systems to optimize processes and save time</li>
+  <li>🛠 Cloud infrastructure setups and containerized environments using Docker and Google Cloud Platform</li>
+  <li>🔒 Secure, production-ready applications with JWT authentication, CI/CD pipelines, and monitoring tools like Prometheus & Grafana</li>
 </ul>
+
+<p>
+  To date, I've built and maintained over a dozen backend services and data pipelines powering diverse applications — always focused on clean code, maintainability, and scalability.
+</p>
 
 ---
 
@@ -47,21 +50,25 @@ Currently, I’m working with Growing Businesses Foundation (GBF), helping busin
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src= />
 </p>
 
 ---
 
 <h3 style="text-align: center; font-weight: bold;">
-  Where to Find Me
+  Let's Connect
 </h3>
 
-<ul>
-<li>📧 <a href="mailto:favourson71@gmail.com">favourson71@gmail.com</a></li>
-<li>🔗 <a href="https://linkedin.com/in/favour-dumkwu" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
-</ul>
+<p align="center">
+  📧 <a href="mailto:favourson71@gmail.com">favourson71@gmail.com</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  🔗 <a href="https://linkedin.com/in/favour-dumkwu" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+</p>
 
 ---
 
 <p style="text-align: center;">
-  Thanks for stopping by! Feel free to connect or check out my projects.
+  Thanks for visiting! Let’s create something amazing together. 🚀
 </p>
