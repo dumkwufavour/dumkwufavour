@@ -21,12 +21,12 @@
   <li>🚀 Scalable backend services and RESTful APIs using Node.js, Express, and FastAPI</li>
   <li>📊 Data pipelines and analytics dashboards leveraging Python, Pandas, Power BI, and Looker Studio</li>
   <li>⚙️ Automated workflows and reporting systems to optimize processes and save time</li>
-  <li>🛠 Cloud infrastructure setups and containerized environments using Docker and Google Cloud Platform</li>
+  <li>🛠 Cloud infrastructure setups and containerized environments using Docker, Google Cloud Platform and AWS</li>
   <li>🔒 Secure, production-ready applications with JWT authentication, CI/CD pipelines, and monitoring tools like Prometheus & Grafana</li>
 </ul>
 
 <p>
-  To date, I've built and maintained over a dozen backend services and data pipelines powering diverse applications — always focused on clean code, maintainability, and scalability.
+  To date, I've built and maintained over a dozen backend services and data pipelines powering diverse applications, always focused on clean code, maintainability, and scalability.
 </p>
 
 ---
