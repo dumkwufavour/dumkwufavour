@@ -37,24 +37,21 @@
 
 ---
 
-<h3 style="text-align: center; font-weight: bold;">
+<h3 style="text-align: center; font-weight: bold; margin-bottom: 10px;">
   Tech Stack
 </h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src= />
+<p align="center" style="font-weight: bold; animation: pulse 3s infinite;">
+  Python &nbsp;|&nbsp; JavaScript &nbsp;|&nbsp; TypeScript &nbsp;|&nbsp; Node.js &nbsp;|&nbsp; Next.js &nbsp;|&nbsp; PostgreSQL &nbsp;|&nbsp; MongoDB &nbsp;|&nbsp; Docker &nbsp;|&nbsp; Google Cloud &nbsp;|&nbsp; Prometheus &nbsp;|&nbsp; Grafana &nbsp;|&nbsp; Java &nbsp;|&nbsp; C++
 </p>
+
+<style>
+@keyframes pulse {
+  0% { color: #333; }
+  50% { color: #0070f3; }
+  100% { color: #333; }
+}
+</style>
 
 ---
 
