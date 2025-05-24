@@ -19,8 +19,8 @@
 
 <ul>
   <li>🚀 Scalable backend services and RESTful APIs using Node.js, Express, and FastAPI</li>
+    <li>⚙️ Automated workflows and reporting systems to optimize processes and save time</li>
   <li>📊 Data pipelines and analytics dashboards leveraging Python, Pandas, Power BI, and Looker Studio</li>
-  <li>⚙️ Automated workflows and reporting systems to optimize processes and save time</li>
   <li>🛠 Cloud infrastructure setups and containerized environments using Docker, Google Cloud Platform and AWS</li>
   <li>🔒 Secure, production-ready applications with JWT authentication, CI/CD pipelines, and monitoring tools like Prometheus & Grafana</li>
 </ul>
