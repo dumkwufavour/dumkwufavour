@@ -9,7 +9,7 @@
 
 ---
 
-<h3 style="text-align: center; font-weight: bold;"> About Me </h3> <p> I enjoy using data and technology to create useful and scalable solutions. With deep expertise in Python, SQL, TypeScript, and Next.js, I build efficient, automated workflows and reliable APIs that solve real-world problems. </p>
+<h3 style="font-weight: bold;" align="center"> About Me </h3> <p> I enjoy using data and technology to create useful and scalable solutions. With deep expertise in Python, SQL, TypeScript, and Next.js, I build efficient, automated workflows and reliable APIs that solve real-world problems. </p>
 
 ---
 
