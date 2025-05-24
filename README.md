@@ -9,24 +9,34 @@
 
 ---
 
-### About Me
+<h3 style="text-align: center; font-weight: bold;">
+  About Me
+</h3>
 
+<p>
 I'm passionate about turning data into insights and building scalable backend solutions. With strong skills in Python, SQL, and modern JavaScript (TypeScript, Next.js), I enjoy solving real-world problems through automation and analytics.
 
 Currently, I’m working with Growing Businesses Foundation (GBF), helping businesses grow with data-driven decisions and automation.
+</p>
 
 ---
 
-### What I Do
+<h3 style="text-align: center; font-weight: bold;">
+  What I Do
+</h3>
 
-- 📊 Data collection, cleaning & visualisation using Python, Power BI, and Looker Studio  
-- ⚙️ Backend development with Node.js, Express, MongoDB, PostgreSQL  
-- 🔄 Automation of workflows & reporting to save time and improve accuracy  
-- 🛠 Building dashboards and interactive tools that help businesses make better decisions
+<ul>
+<li>📊 Data collection, cleaning & visualisation using Python, Power BI, and Looker Studio</li>
+<li>⚙️ Backend development with Node.js, Express, MongoDB, PostgreSQL</li>
+<li>🔄 Automation of workflows & reporting to save time and improve accuracy</li>
+<li>🛠 Building dashboards and interactive tools that help businesses make better decisions</li>
+</ul>
 
 ---
 
-### Tech Stack
+<h3 style="text-align: center; font-weight: bold;">
+  Tech Stack
+</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -41,14 +51,17 @@ Currently, I’m working with Growing Businesses Foundation (GBF), helping busin
 
 ---
 
-### Where to Find Me
+<h3 style="text-align: center; font-weight: bold;">
+  Where to Find Me
+</h3>
 
-- 📧 [favourson71@gmail.com](mailto:favourson71@gmail.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/favour-dumkwu)  
-- 📞 +234-913-272-8654  
+<ul>
+<li>📧 <a href="mailto:favourson71@gmail.com">favourson71@gmail.com</a></li>
+<li>🔗 <a href="https://linkedin.com/in/favour-dumkwu" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+</ul>
 
 ---
 
-Thanks for stopping by! Feel free to connect or check out my projects.
-
----
+<p style="text-align: center;">
+  Thanks for stopping by! Feel free to connect or check out my projects.
+</p>
