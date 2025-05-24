@@ -1,90 +1,92 @@
-<h1 align="center">Hi, I'm Dumkwu Isioma Favour 👋</h1>
-<p align="center">
-  <em>Software Engineer | Data Analyst | Backend Developer | Cloud Enthusiast</em>
+<h1 align="center" style="font-weight: 900; letter-spacing: 1.5px;">
+  Hi, I'm <span style="color:#00FFAB;">Favour</span> 👋
+</h1>
+
+<p align="center" style="font-style: italic; font-weight: 600; color:#888;">
+  Software Engineer | Data Analyst | Backend Developer | Cloud Enthusiast
 </p>
 
 ---
 
 <p align="center">
   <a href="mailto:favourson71@gmail.com" title="Email">
-    📧 favourson71@gmail.com
-  </a> &nbsp;|&nbsp;
+    📧 <strong>favourson71@gmail.com</strong>
+  </a> &nbsp;&middot;&nbsp;
   <a href="tel:+2349132728654" title="Phone">
-    📞 +234-913-272-8654
-  </a> &nbsp;|&nbsp;
+    📞 <strong>+234-913-272-8654</strong>
+  </a> &nbsp;&middot;&nbsp;
   <a href="https://linkedin.com/in/favour-dumkwu" target="_blank" rel="noopener noreferrer" title="LinkedIn">
-    🔗 linkedin.com/in/favour-dumkwu
+    🔗 <strong>linkedin.com/in/favour-dumkwu</strong>
   </a>
 </p>
 
 ---
 
-### About Me
+## About Me
 
-I’m a software engineer with 8+ years of **crafting scalable backend systems**, **building automated workflows**, and **delivering clean, maintainable code**.  
-I thrive on solving complex problems with data, automating processes that free up human potential, and contributing professionally in remote, cross-functional teams.  
-
----
-
-### 💡 What I Bring
-
-- Fluent in **JavaScript/TypeScript** (Node.js, React.js, Next.js) and **Python**, with a strong grasp of **Java** and **C++**  
-- Architect of scalable, fault-tolerant APIs and microservices (REST, GraphQL, FastAPI, Express.js)  
-- Experience with cloud infrastructure (Google Cloud Platform), containerization (Docker), and monitoring (Prometheus, Grafana)  
-- Data enthusiast skilled with **Pandas**, **TensorFlow**, and powerful BI tools like **Power BI** and **Looker Studio**  
-- Committed to **clean code**, **continuous learning**, and **collaboration**  
+> I’m a seasoned software engineer with 8+ years of experience architecting **scalable backend systems**, driving **automation workflows**, and delivering **clean, maintainable code**.  
+> Passionate about harnessing **data-driven insights** and **cloud-native architectures** to solve complex challenges and accelerate innovation.  
+> A natural collaborator thriving in **remote, cross-functional teams** where ideas meet execution.
 
 ---
 
-### ⚡ Recent Highlights
+## What I Bring to the Table
 
-- Led a 10,000-response research data collection and pipeline automation at **Growing Businesses Foundation**  
-- Built and deployed robust, secure Node.js microservices for **SearchOver** with CI/CD and production monitoring  
-- Developed scalable backend APIs with JWT-based security and automated testing for **Top Universe Africa**  
-- Integrated event-driven data workflows and infrastructure as code at **MCDS** using RabbitMQ, Terraform, and Kubernetes  
-- Mentored junior developers, promoting best practices in multiple EdTech startups  
+- 💻 Expert in **JavaScript/TypeScript** (Node.js, React.js, Next.js) and **Python**, proficient in **Java** and **C++**  
+- ⚙️ Designed and deployed resilient APIs & microservices — REST, GraphQL, FastAPI, Express.js  
+- ☁️ Skilled with **Google Cloud Platform**, containerization (**Docker**), and observability tools (**Prometheus**, **Grafana**)  
+- 📊 Data enthusiast adept in **Pandas**, **TensorFlow**, and BI platforms like **Power BI** & **Looker Studio**  
+- 🚀 Committed to **clean code**, **continuous improvement**, and fostering **collaborative environments**
 
 ---
 
-### 🚀 Tech Stack
+## Highlights & Impact
+
+- Spearheaded automation of a **10,000+ response research data pipeline** at **Growing Businesses Foundation**  
+- Engineered and deployed **secure Node.js microservices** with CI/CD pipelines at **SearchOver**  
+- Built JWT-secured backend APIs with comprehensive automated testing for **Top Universe Africa**  
+- Integrated event-driven workflows and infrastructure-as-code using **RabbitMQ**, **Terraform**, and **Kubernetes** at **MCDS**  
+- Mentored junior engineers across EdTech startups, promoting engineering best practices
+
+---
+
+## Tech Arsenal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dumkwu&show_icons=true&theme=tokyonight" alt="Dumkwu's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dumkwu&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
 
-### ✨ Fun Fact
+## Fun Fact 💡
 
-> "I run a 12-week beginner Python course every Saturday — sharing knowledge is my passion."  
-> *Continuous learning and teaching fuel my growth.*
-
----
-
-Thanks for stopping by. Let’s build the future, one line of code at a time! 🚀
+> “I run a **12-week beginner Python course every Saturday** — sharing knowledge is my passion.”  
+> Continuous learning and mentorship fuel my growth and inspire others.
 
 ---
 
-<!-- You can add animated SVGs or gifs below, but GitHub README supports only limited animation -->
+Thanks for stopping by — let’s **build the future, one line of code at a time!** 🚀
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFAB&width=440&lines=Welcome+to+my+GitHub+profile!;Let's+build+great+software+together." alt="Typing SVG" />
+---
+
+<p align="center" style="font-weight: 600; color:#00FFAB; letter-spacing: 1px;">
+  Welcome to my GitHub profile! — Let’s build great software together.
 </p>
