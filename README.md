@@ -48,7 +48,7 @@
 </h3>
 
 <p align="center">
-  📧 <a href="mailto:favourson71@gmail.com">favourson71@gmail.com</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  
   🔗 <a href="https://linkedin.com/in/favour-dumkwu" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 </p>
 
