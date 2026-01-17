@@ -80,5 +80,5 @@ To date, I've designed, implemented, and maintained **15+** backend services, AP
 
 <p align="center">
   Open to interesting challenges, collaborations, and opportunities.<br>
-  Feel free to reach out — let's build something great together! 🚀
+  Feel free to reach out - let's build something great together! 🚀
 </p>
