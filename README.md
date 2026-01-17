@@ -1,59 +1,84 @@
-<h1 align="center">
-  Hey, I'm Favour 👋
-</h1>
-
-<p align="center" style="font-style: italic; color: #666;">
-  Data Scientist | Software Engineer | Backend Developer | Cloud Engineer <br/>
-  Based in Lagos, Nigeria
-</p>
-
----
-
-<h3 style="font-weight: bold;" align="center"> About Me </h3> <p> I enjoy using data and technology to create useful and scalable solutions. With deep expertise in Python, SQL, TypeScript, and Next.js, I build efficient, automated workflows and reliable APIs that solve real-world problems. </p>
-
----
-
-<h3 align="center" style="font-weight: bold;">
-  What I Build & Use
-</h3>
-
-<ul>
-  <li>🚀 Scalable backend services and RESTful APIs using Node.js, Express, and FastAPI</li>
-    <li>⚙️ Automated workflows and reporting systems to optimize processes and save time</li>
-  <li>📊 Data pipelines and analytics dashboards leveraging Python, Pandas, Power BI, and Looker Studio</li>
-  <li>🛠 Cloud infrastructure setups and containerized environments using Docker, Google Cloud Platform and AWS</li>
-  <li>🔒 Secure, production-ready applications with JWT authentication, CI/CD pipelines, and monitoring tools like Prometheus & Grafana</li>
-</ul>
-
-<p>
-  To date, I've built and maintained over a dozen backend services and data pipelines powering diverse applications, always focused on clean code, maintainability, and scalability.
-</p>
-
----
-
-<h3 align="center" style="font-weight: bold;">
-  Tech Stack
-</h3>
-
-<p align="center" style="font-weight: bold; font-size: 1.1rem;">
-  🐍 Python &nbsp;&nbsp; | &nbsp;&nbsp;🟨 JavaScript &nbsp;&nbsp; | &nbsp;&nbsp;🔷 TypeScript &nbsp;&nbsp; | &nbsp;&nbsp;🟩 Node.js &nbsp;&nbsp; | &nbsp;&nbsp;⚫ Next.js <br/>
-  🐘 PostgreSQL &nbsp;&nbsp; | &nbsp;&nbsp;🍃 MongoDB &nbsp;&nbsp; | &nbsp;&nbsp;🐳 Docker &nbsp;&nbsp; | &nbsp;&nbsp;☁️ Google & AWS Cloud <br/>
-  📊 Prometheus &nbsp;&nbsp; | &nbsp;&nbsp;📈 Grafana &nbsp;&nbsp; | &nbsp;&nbsp;☕ Java &nbsp;&nbsp; | &nbsp;&nbsp;💻 C++ | &nbsp;&nbsp;📈 LookerStuido | &nbsp;&nbsp;📈 PowerBI
-</p>
-
----
-
-<h3 align="center" style="font-weight: bold;">
-  Let's Connect
-</h3>
-
-<p align="center">
+<div align="center">
+  <h1>Hey, I'm Favour 👋</h1>
   
-  🔗 <a href="https://linkedin.com/in/favour-dumkwu" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-</p>
+  <p>
+    <strong>Data Scientist</strong> • <strong>Software Engineer</strong> • <strong>Backend Developer</strong> • <strong>Cloud Engineer</strong><br>
+    <em>Based in Lagos, Nigeria</em>
+  </p>
+</div>
 
 ---
 
+### About Me
+
+I design and build scalable, data-driven systems that solve real-world problems efficiently.  
+With strong experience in backend development, data engineering, and cloud infrastructure, I focus on creating clean, maintainable, and production-ready solutions.
+
+I enjoy turning complex requirements into elegant, automated, and reliable systems.
+
+---
+
+### What I Build
+
+- **High-performance backend services** & REST/GraphQL APIs  
+  (FastAPI · Node.js · Express · TypeScript)
+- **Modern data pipelines** and automated analytics/reporting systems  
+  (Python · Pandas · Airflow · dbt)
+- **Interactive dashboards** and business intelligence solutions  
+  (Power BI · Looker Studio · SQL)
+- **Cloud-native & containerized infrastructure**  
+  (Docker · Google Cloud Platform · AWS · Terraform)
+- **Production-grade systems** with observability, security & reliability  
+  (JWT · OAuth · Prometheus · Grafana · CI/CD)
+
+To date, I've designed, implemented, and maintained **15+** backend services, APIs, and data pipelines that power business-critical applications.
+
+---
+
+### Tech Stack
+
+<div align="center">
+  <table>
+    <tr>
+      <td><strong>Languages</strong></td>
+      <td>Python · TypeScript · JavaScript · Java · C++</td>
+    </tr>
+    <tr>
+      <td><strong>Backend & APIs</strong></td>
+      <td>FastAPI · Node.js · Express · Next.js (API routes)</td>
+    </tr>
+    <tr>
+      <td><strong>Databases</strong></td>
+      <td>PostgreSQL · MongoDB · Redis</td>
+    </tr>
+    <tr>
+      <td><strong>Cloud & DevOps</strong></td>
+      <td>AWS · Google Cloud Platform · Docker · CI/CD · Terraform</td>
+    </tr>
+    <tr>
+      <td><strong>Observability</strong></td>
+      <td>Prometheus · Grafana · Loki</td>
+    </tr>
+    <tr>
+      <td><strong>Data & BI</strong></td>
+      <td>Pandas · SQL · Power BI · Looker Studio</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/favour-dumkwu)
+
+</div>
+
+<br/>
+
 <p align="center">
-  Thanks for visiting! Let’s create something amazing together. 🚀
+  Open to interesting challenges, collaborations, and opportunities.<br>
+  Feel free to reach out — let's build something great together! 🚀
 </p>
