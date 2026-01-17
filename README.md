@@ -2,7 +2,7 @@
   <h1>Hey, I'm Favour 👋</h1>
   
   <p>
-    <strong>Data Scientist</strong> • <strong>Software Engineer</strong> • <strong>Backend Developer</strong> • <strong>Cloud Engineer</strong><br>
+    <strong>Data Scientist</strong> • <strong>Software Engineer</strong> • <strong>Cloud Engineer</strong><br>
     <em>Based in Lagos, Nigeria</em>
   </p>
 </div>
@@ -41,7 +41,7 @@ To date, I've designed, implemented, and maintained **15+** backend services, AP
   <table>
     <tr>
       <td><strong>Languages</strong></td>
-      <td>Python · TypeScript · JavaScript · Java · C++</td>
+      <td>Python · TypeScript · JavaScript · C</td>
     </tr>
     <tr>
       <td><strong>Backend & APIs</strong></td>
@@ -49,7 +49,7 @@ To date, I've designed, implemented, and maintained **15+** backend services, AP
     </tr>
     <tr>
       <td><strong>Databases</strong></td>
-      <td>PostgreSQL · MongoDB · Redis</td>
+      <td>PostgreSQL · MongoDB · Redis · SSMS</td>
     </tr>
     <tr>
       <td><strong>Cloud & DevOps</strong></td>
@@ -57,7 +57,7 @@ To date, I've designed, implemented, and maintained **15+** backend services, AP
     </tr>
     <tr>
       <td><strong>Observability</strong></td>
-      <td>Prometheus · Grafana · Loki</td>
+      <td>Prometheus · Grafana</td>
     </tr>
     <tr>
       <td><strong>Data & BI</strong></td>
