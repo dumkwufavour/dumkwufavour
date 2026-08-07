@@ -19,7 +19,7 @@
 
 I'm a **Technology Lead and Data Professional** with 7+ years of experience building data-driven systems, analytics platforms, backend services, and internal technology solutions.
 
-I work across the intersection of **data engineering, software engineering, analytics, cloud infrastructure, and AI** — turning complex operational requirements into scalable, automated, and reliable systems.
+I work across the intersection of **data engineering, software engineering, analytics, cloud infrastructure, and AI** turning complex operational requirements into scalable, automated, and reliable systems.
 
 My work has involved processing millions of records, designing ETL pipelines, building enterprise dashboards, developing internal platforms, implementing data quality frameworks, and delivering technology solutions that support real-world programs and business decisions.
 
