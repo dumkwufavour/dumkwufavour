@@ -1,84 +1,198 @@
 <div align="center">
   <h1>Hey, I'm Favour 👋</h1>
-  
+
   <p>
-    <strong>Data Scientist</strong> • <strong>Software Engineer</strong> • <strong>Cloud Engineer</strong><br>
-    <em>Based in Lagos, Nigeria</em>
+    <strong>Technology Lead</strong> • <strong>Data Engineer</strong> • <strong>Software Engineer</strong><br>
+    <em>Building scalable data, software, and technology systems</em>
+  </p>
+
+  <p>
+    <a href="https://favourdumkwu.com">Portfolio</a> •
+    <a href="https://www.linkedin.com/in/favour-dumkwu">LinkedIn</a> •
+    <a href="mailto:favourson71@gmail.com">Email</a>
   </p>
 </div>
 
 ---
 
-### About Me
+## About Me
 
-I design and build scalable, data-driven systems that solve real-world problems efficiently.  
-With strong experience in backend development, data engineering, and cloud infrastructure, I focus on creating clean, maintainable, and production-ready solutions.
+I'm a **Technology Lead and Data Professional** with 7+ years of experience building data-driven systems, analytics platforms, backend services, and internal technology solutions.
 
-I enjoy turning complex requirements into elegant, automated, and reliable systems.
+I work across the intersection of **data engineering, software engineering, analytics, cloud infrastructure, and AI** — turning complex operational requirements into scalable, automated, and reliable systems.
 
----
+My work has involved processing millions of records, designing ETL pipelines, building enterprise dashboards, developing internal platforms, implementing data quality frameworks, and delivering technology solutions that support real-world programs and business decisions.
 
-### What I Build
-
-- **High-performance backend services** & REST/GraphQL APIs  
-  (FastAPI · Node.js · Express · TypeScript)
-- **Modern data pipelines** and automated analytics/reporting systems  
-  (Python · Pandas · Airflow · dbt)
-- **Interactive dashboards** and business intelligence solutions  
-  (Power BI · Looker Studio · SQL)
-- **Cloud-native & containerized infrastructure**  
-  (Docker · Google Cloud Platform · AWS · Terraform)
-- **Production-grade systems** with observability, security & reliability  
-  (JWT · OAuth · Prometheus · Grafana · CI/CD)
-
-To date, I've designed, implemented, and maintained **15+** backend services, APIs, and data pipelines that power business-critical applications.
+I care about more than getting software to work. I focus on **architecture, data quality, observability, maintainability, performance, and measurable business impact.**
 
 ---
 
-### Tech Stack
+## What I Build
+
+### Data Engineering & Analytics
+
+* Scalable **ETL/ELT pipelines** and data processing workflows
+* Data validation, quality assurance, and transformation frameworks
+* Analytical datasets and data warehouse solutions
+* Automated reporting and KPI monitoring systems
+* Executive dashboards and business intelligence solutions
+* Statistical analysis, forecasting, and machine learning workflows
+
+**Python · Pandas · SQL · Apache Airflow · PostgreSQL · BigQuery · Power BI · Looker Studio**
+
+### Software Engineering
+
+* Production-grade backend services and REST APIs
+* Internal enterprise platforms and workflow automation systems
+* Authentication, authorization, and role-based access control
+* API integrations and event-driven workflows
+* Full-stack applications with modern TypeScript architectures
+
+**TypeScript · JavaScript · Node.js · Express · FastAPI · Next.js · React**
+
+### Cloud & Infrastructure
+
+* Containerized applications and distributed services
+* Cloud infrastructure and deployment workflows
+* Infrastructure as code
+* Application monitoring and observability
+* Performance optimization and reliability engineering
+
+**Docker · GCP · AWS · Terraform · Kubernetes · Prometheus · Grafana**
+
+### AI & Data Science
+
+* Machine learning and predictive analytics
+* Feature engineering and model evaluation
+* Natural language processing
+* AI-powered applications and automation
+* MLOps and production-oriented ML workflows
+
+**Python · Pandas · NumPy · Scikit-learn · TensorFlow**
+
+---
+
+## Engineering at Scale
+
+Some of the systems and data environments I've worked with include:
+
+| Area                                 |                  Scale / Impact |
+| ------------------------------------ | ------------------------------: |
+| Consumer & research databases        |               **500K+ records** |
+| Transactional data                   |     **2.5M+ records quarterly** |
+| Survey processing                    | **15K–35K responses quarterly** |
+| Research studies                     |     **100+ nationwide studies** |
+| Executive dashboards                 |              **60+ dashboards** |
+| Automated workflows & internal tools |               **40+ solutions** |
+| Program beneficiaries supported      |                        **30K+** |
+| Recovery logistics data              |            **25K+ metric tons** |
+
+I've worked across the full data lifecycle — from **data collection and ingestion to transformation, validation, analytics, visualization, APIs, and decision support.**
+
+---
+
+## Tech Stack
 
 <div align="center">
-  <table>
-    <tr>
-      <td><strong>Languages</strong></td>
-      <td>Python · TypeScript · JavaScript · C</td>
-    </tr>
-    <tr>
-      <td><strong>Backend & APIs</strong></td>
-      <td>FastAPI · Node.js · Express · Next.js (API routes)</td>
-    </tr>
-    <tr>
-      <td><strong>Databases</strong></td>
-      <td>PostgreSQL · MongoDB · Redis · SSMS</td>
-    </tr>
-    <tr>
-      <td><strong>Cloud & DevOps</strong></td>
-      <td>AWS · Google Cloud Platform · Docker · CI/CD · Terraform</td>
-    </tr>
-    <tr>
-      <td><strong>Observability</strong></td>
-      <td>Prometheus · Grafana</td>
-    </tr>
-    <tr>
-      <td><strong>Data & BI</strong></td>
-      <td>Pandas · SQL · Power BI · Looker Studio</td>
-    </tr>
-  </table>
+
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>Python · TypeScript · JavaScript · SQL · C</td>
+  </tr>
+  <tr>
+    <td><strong>Data Engineering</strong></td>
+    <td>Python · Pandas · NumPy · Apache Airflow · ETL · Data Validation · Data Quality</td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>Node.js · Express · FastAPI · REST APIs · Next.js</td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>React · Next.js · TypeScript · Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>PostgreSQL · MySQL · MongoDB · Redis · BigQuery · Snowflake</td>
+  </tr>
+  <tr>
+    <td><strong>Cloud</strong></td>
+    <td>Google Cloud Platform · AWS</td>
+  </tr>
+  <tr>
+    <td><strong>DevOps</strong></td>
+    <td>Docker · Kubernetes · Terraform · CI/CD · Git</td>
+  </tr>
+  <tr>
+    <td><strong>Observability</strong></td>
+    <td>Prometheus · Grafana · Logging · Monitoring</td>
+  </tr>
+  <tr>
+    <td><strong>Analytics & BI</strong></td>
+    <td>SQL · Power BI · Looker Studio · Excel</td>
+  </tr>
+  <tr>
+    <td><strong>AI & ML</strong></td>
+    <td>Scikit-learn · TensorFlow · Machine Learning · NLP · Predictive Analytics · MLOps</td>
+  </tr>
+</table>
+
 </div>
 
 ---
 
-### Let's Connect
+## Featured Work
+
+My portfolio contains projects spanning **data engineering, analytics, software engineering, cloud infrastructure, AI, and automation**.
+
+Explore the work:
+
+**🌐 Portfolio:**
+https://favourdumkwu.com
+
+**📊 Data & Analytics:**
+https://favourdumkwu.com/data/dashboards
+
+**💻 Software Engineering:**
+https://favourdumkwu.com/software/projects
+
+---
+
+## What I Care About
+
+```text
+Scalability       → Systems that grow without becoming fragile
+Data Quality      → Reliable data people can trust
+Automation        → Less manual work, more leverage
+Observability     → Systems that explain themselves
+Architecture      → Maintainable systems built with intention
+Performance       → Efficient processing and responsive applications
+Impact            → Technology that solves measurable problems
+```
+
+---
+
+## Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/favour-dumkwu)
+<a href="https://www.linkedin.com/in/favour-dumkwu">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://favourdumkwu.com">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="mailto:favourson71@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
 <br/>
 
 <p align="center">
-  Open to interesting challenges, collaborations, and opportunities.<br>
-  Feel free to reach out - let's build something great together! 🚀
+  <strong>Building data systems, software, and technology that create measurable impact.</strong> 🚀
 </p>
