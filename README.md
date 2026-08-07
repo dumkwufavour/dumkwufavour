@@ -87,7 +87,7 @@ Some of the systems and data environments I've worked with include:
 | Program beneficiaries supported      |                        **30K+** |
 | Recovery logistics data              |            **25K+ metric tons** |
 
-I've worked across the full data lifecycle — from **data collection and ingestion to transformation, validation, analytics, visualization, APIs, and decision support.**
+I've worked across the full data lifecycle, from **data collection and ingestion to transformation, validation, analytics, visualization, APIs, and decision support.**
 
 ---
 
