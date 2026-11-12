@@ -14,8 +14,9 @@
 </div>
 
 ---
-
+<div align="center">
 ## About Me
+</div>
 
 I'm a **Technology Lead and Data Professional** with 9 years of experience building data-driven systems, analytics platforms, backend services, and internal technology solutions.
 
@@ -26,8 +27,9 @@ My work has involved processing millions of records, designing ETL pipelines, bu
 I care about more than getting software to work. I focus on **architecture, data quality, observability, maintainability, performance, and measurable business impact.**
 
 ---
-
+<div align="center">
 ## What I Build
+</div>
 
 ### Data Engineering & Analytics
 
@@ -71,8 +73,9 @@ I care about more than getting software to work. I focus on **architecture, data
 **Python · Pandas · NumPy · Scikit-learn · TensorFlow**
 
 ---
-
+<div align="center">
 ## Engineering at Scale
+</div>
 
 Some of the systems and data environments I've worked with include:
 
@@ -141,9 +144,9 @@ I've worked across the full data lifecycle, from **data collection and ingestion
 </div>
 
 ---
-
+<div align="center">
 ## Featured Work
-
+</div>
 My portfolio contains projects spanning **data engineering, analytics, software engineering, cloud infrastructure, AI, and automation**.
 
 Explore the work:
@@ -158,8 +161,9 @@ https://favourdumkwu.com/data/dashboards
 https://favourdumkwu.com/software/projects
 
 ---
-
+<div align="center">
 ## What I Care About
+</div>
 
 ```text
 Scalability       → Systems that grow without becoming fragile
