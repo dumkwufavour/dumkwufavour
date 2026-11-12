@@ -123,7 +123,7 @@ I've worked across the full data lifecycle, from **data collection and ingestion
   </tr>
   <tr>
     <td><strong>Observability</strong></td>
-    <td>Prometheus · Grafana · Logging · Monitoring</td>
+    <td>Prometheus · Grafana · Logging · Monitoring · UptimeRobot</td>
   </tr>
   <tr>
     <td><strong>Analytics & BI</strong></td>
