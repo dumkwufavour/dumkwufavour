@@ -7,8 +7,8 @@
   </p>
 
   <p>
-    <a href="https://favourdumkwu.com">Portfolio</a> •
     <a href="https://www.linkedin.com/in/favour-dumkwu">LinkedIn</a> •
+    <a href="https://favourdumkwu.com">Portfolio</a> •
     <a href="mailto:favourson71@gmail.com">Email</a>
   </p>
 </div>
@@ -36,7 +36,7 @@ I care about more than getting software to work. I focus on **architecture, data
 * Executive dashboards and business intelligence solutions
 * Statistical analysis, forecasting, and machine learning workflows
 
-**Python · Pandas · SQL · Apache Airflow · PostgreSQL · BigQuery · Power BI · Looker Studio**
+**Python · Pandas · Apache Airflow · MongoDB · MySQL · PostgreSQL · BigQuery · Power BI · Looker Studio**
 
 ### Software Engineering
 
@@ -46,7 +46,7 @@ I care about more than getting software to work. I focus on **architecture, data
 * API integrations and event-driven workflows
 * Full-stack applications with modern TypeScript architectures
 
-**TypeScript · JavaScript · Node.js · Express · FastAPI · Next.js · React**
+**TypeScript · JavaScript · Node.js · Express · FastAPI · Next.js · React · Python**
 
 ### Cloud & Infrastructure
 
@@ -95,7 +95,7 @@ I've worked across the full data lifecycle, from **data collection and ingestion
 <table>
   <tr>
     <td><strong>Languages</strong></td>
-    <td>Python · TypeScript · JavaScript · SQL · C</td>
+    <td>Python · TypeScript · JavaScript · SQL · C · C++</td>
   </tr>
   <tr>
     <td><strong>Data Engineering</strong></td>
@@ -103,7 +103,7 @@ I've worked across the full data lifecycle, from **data collection and ingestion
   </tr>
   <tr>
     <td><strong>Backend</strong></td>
-    <td>Node.js · Express · FastAPI · REST APIs · Next.js</td>
+    <td>Node.js · Express · FastAPI · REST APIs · Next.js · Python</td>
   </tr>
   <tr>
     <td><strong>Frontend</strong></td>
