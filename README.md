@@ -78,13 +78,13 @@ Some of the systems and data environments I've worked with include:
 
 | Area                                 |                  Scale / Impact |
 | ------------------------------------ | ------------------------------: |
-| Consumer & research databases        |               **500K+ records** |
-| Transactional data                   |     **2.5M+ records quarterly** |
+| Consumer & research databases        |               **650K, 150↑ records** |
+| Transactional data                   |     **3.5M+, 1M↑ records quarterly** |
 | Survey processing                    | **15K–35K+ responses quarterly** |
 | Research studies                     |     **100+ nationwide studies** |
-| Executive dashboards                 |              **60+ dashboards** |
-| Automated workflows & internal tools |               **40+ solutions** |
-| Program beneficiaries supported      |                        **60K+ 30K↑** |
+| Executive dashboards                 |              **80+, 20↑ dashboards** |
+| Automated workflows & internal tools |               **45+, 5↑ solutions** |
+| Program beneficiaries supported      |                        **90K+, 30K↑** |
 | Recovery logistics data              |            **25K+ metric tons** |
 
 I've worked across the full data lifecycle, from **data collection and ingestion to transformation, validation, analytics, visualization, APIs, and decision support.**
