@@ -14,9 +14,7 @@
 </div>
 
 ---
-<p align="center">
-## About Me
-</p>
+<h2 align="center"><strong>About Me</strong></h2>
 
 I'm a **Technology Lead and Data Professional** with 9 years of experience building data-driven systems, analytics platforms, backend services, and internal technology solutions.
 
@@ -27,9 +25,7 @@ My work has involved processing millions of records, designing ETL pipelines, bu
 I care about more than getting software to work. I focus on **architecture, data quality, observability, maintainability, performance, and measurable business impact.**
 
 ---
-<div align="center">
-## What I Build
-</div>
+<h2 align="center"><strong>What I Build</strong></h2>
 
 ### Data Engineering & Analytics
 
@@ -73,9 +69,7 @@ I care about more than getting software to work. I focus on **architecture, data
 **Python · Pandas · NumPy · Scikit-learn · TensorFlow**
 
 ---
-<div align="center">
-## Engineering at Scale
-</div>
+<h2 align="center"><strong>Engineering at Scale</strong></h2>
 
 Some of the systems and data environments I've worked with include:
 
@@ -94,7 +88,7 @@ I've worked across the full data lifecycle, from **data collection and ingestion
 
 ---
 
-## Tech Stack
+<h2 align="center"><strong>Tech Stack</strong></h2>
 
 <div align="center">
 
@@ -144,9 +138,8 @@ I've worked across the full data lifecycle, from **data collection and ingestion
 </div>
 
 ---
-<div align="center">
-## Featured Work
-</div>
+<h2 align="center"><strong>Featured Work</strong></h2>
+
 My portfolio contains projects spanning **data engineering, analytics, software engineering, cloud infrastructure, AI, and automation**.
 
 Explore the work:
@@ -161,9 +154,7 @@ https://favourdumkwu.com/data/dashboards
 https://favourdumkwu.com/software/projects
 
 ---
-<div align="center">
-## What I Care About
-</div>
+<h2 align="center"><strong>What I Care About</strong></h2>
 
 ```text
 Scalability       → Systems that grow without becoming fragile
@@ -177,7 +168,7 @@ Impact            → Technology that solves measurable problems
 
 ---
 
-## Let's Connect
+<h2 align="center"><strong>Let's Connect</strong></h2>
 
 <div align="center">
 
