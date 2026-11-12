@@ -14,9 +14,9 @@
 </div>
 
 ---
-<div align="center">
+<p align="center">
 ## About Me
-</div>
+</p>
 
 I'm a **Technology Lead and Data Professional** with 9 years of experience building data-driven systems, analytics platforms, backend services, and internal technology solutions.
 
