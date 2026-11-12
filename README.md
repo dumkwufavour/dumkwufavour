@@ -17,7 +17,7 @@
 
 ## About Me
 
-I'm a **Technology Lead and Data Professional** with 7+ years of experience building data-driven systems, analytics platforms, backend services, and internal technology solutions.
+I'm a **Technology Lead and Data Professional** with 9 years of experience building data-driven systems, analytics platforms, backend services, and internal technology solutions.
 
 I work across the intersection of **data engineering, software engineering, analytics, cloud infrastructure, and AI** turning complex operational requirements into scalable, automated, and reliable systems.
 
@@ -80,11 +80,11 @@ Some of the systems and data environments I've worked with include:
 | ------------------------------------ | ------------------------------: |
 | Consumer & research databases        |               **500K+ records** |
 | Transactional data                   |     **2.5M+ records quarterly** |
-| Survey processing                    | **15K–35K responses quarterly** |
+| Survey processing                    | **15K–35K+ responses quarterly** |
 | Research studies                     |     **100+ nationwide studies** |
 | Executive dashboards                 |              **60+ dashboards** |
 | Automated workflows & internal tools |               **40+ solutions** |
-| Program beneficiaries supported      |                        **30K+** |
+| Program beneficiaries supported      |                        **60K+ 30K↑** |
 | Recovery logistics data              |            **25K+ metric tons** |
 
 I've worked across the full data lifecycle, from **data collection and ingestion to transformation, validation, analytics, visualization, APIs, and decision support.**
